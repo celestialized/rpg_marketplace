@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/magma-labs/solidus_marketplace.git
-  revision: ebaa0a8723ee8bd2dafc4a195ba30e442c29b01b
+  revision: 6db9dfccb4ae925d5c74cf0937749b82c53eb089
   branch: rails-6-support
   specs:
     solidus_marketplace (1.0.0)
